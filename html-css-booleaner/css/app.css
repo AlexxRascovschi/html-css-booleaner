@@ -1,0 +1,67 @@
+/* RESET */
+body {
+    margin: 0;
+}
+
+/* HEADER */
+  
+.page-header {
+    background-color: rgb(115, 213, 237);
+    padding: 40px 10px;
+}
+
+.logo {
+    height: 40px
+}
+
+/* MAIN */
+.page-content {
+    padding: 0% 10px;
+}
+
+.article-author,.article-date {
+    color: #666666;
+}
+
+.article-image{
+    margin: 20px;
+}
+
+.article-list{
+    padding-left: 20px;
+}
+
+.mark{
+    background-color: aquamarine;
+}
+
+.table{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.tr-head{
+    background-color: cornflowerblue;
+    color: white;
+    text-align: left;
+}    
+
+.tr-body-odd{
+    background-color: rgb(189, 209, 245);
+}
+
+/* FOOTER */
+.page-footer{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 20px 10px;
+}
+
+/* UTILITIES */
+.w-25{
+    width: 25%;
+}
+.w-50{
+    width: 50%;
+}
